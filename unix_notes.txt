@@ -1,17 +1,39 @@
+# Hidden files have names that begin with a dot
+
+# The .git directory stores all infromation about a repository.
+
+
+
+
+
+# Print out present directory
 pwd
+
+# Print out manual focused upon the term "less"
 man less
+
 history | less 
+
+# Print out list of data input
 history
 $ history
+
+# Change directory 
 /cd .
 /cd ..
 /cd ...
 cd Desktop
+
+#list current items in directory
 ls
 .
 ls /
 cd
+
+# Print out manual for "tree"
 man tree
+
+# Change directory or position to "Downloads"
 cd ../Downloads
 cd pictures
 cd net
