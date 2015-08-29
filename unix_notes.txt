@@ -1,0 +1,515 @@
+pwd
+man less
+history | less 
+history
+$ history
+/cd .
+/cd ..
+/cd ...
+cd Desktop
+ls
+.
+ls /
+cd
+man tree
+cd ../Downloads
+cd pictures
+cd net
+cd src
+cd ~
+ls -l
+..
+cd ../..
+cd ..
+cd src/
+ls l
+ls -R
+ls 0R
+ls -G
+ls -i
+man ls
+man
+fish
+manual
+ls -at
+ls -al
+ls -a
+ls -rlt
+ls -r
+ls -t
+ls -lt
+cd /
+cd /c
+lsd
+cd ../
+cd ~/D
+cd Downloads
+cd ~/Downloads/
+cd cameronforras/
+cd home
+~$
+prompt
+echo $PATH
+ech $PATH
+curl -fsSL http://git.io/QxUaOQ | sh
+git config --global user.name
+git config --global user.email
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'cameronforras@hotmail.com'
+git config --global user.name 'Cameron Forras'
+brew install git
+git checkout master
+git checkout -b blah
+git branch
+git --version
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew install fish
+function fish_title; end; funcsave fish_title
+help
+$
+killall fishd
+brew info fish
+fish_update_completions 
+chsh -s /usr/local/bin/fish
+curl -fsSL http://git.io/beJs | ruby
+brew doctor
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew prune
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+$gitinit
+$ git
+git add /Users/cameronforras/projects/codefellows/io-example/donutFinal.html 
+/Users/cameronforras/projects/codefellows/io-example/donutFinal.html 
+git push -u origin master
+git remote add origin https://github.com/cameron4us/TopPotDonutsProject3.git
+git commit -m "first commit"
+git add README.md
+git init
+echo "# TopPotDonutsProject3" >> README.md
+git
+cd ...
+cd Library/
+cd/ User/cameronforras
+cd usr/
+../ cd
+cd../
+../cd
+git clone https://github.com/h5bp/html5-boilerplate.git
+subl greeting.html
+greeting.html
+subl test.html
+sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/
+man subl
+subl help
+subl
+cd io-example/
+cd codefellows/
+cd projects/
+git fetch
+git config --global credential.helper osxkeychain
+git credential-osxkeychain get
+get
+git credential-osxkeychain
+git config --global user.email cameronforras@hotmail.com
+git config --global user.name Cameron
+$ git config --global user.name Cameron
+file /Users/cameronforras/*
+ls [^a-k]*
+ls [l]*
+ls [ld]*
+ls [sv]*
+ls *.???
+ls *.jpg
+ls *.odt
+cd /Users/cameronforras
+cd /Users
+cd Users
+cd Users/cameronforras
+ls f*
+ls b*
+rm -i fred
+rm -r backups
+rm backups
+rmdir backups
+rm example1
+cd linuxtutorialwork/
+mv linuxtutorialwork/testdir /Users/cameronforras/linuxtutorialwork/fred
+mkdir linuxtutorialwork/testdir
+mv foo foo3
+mv barney backups/
+mv foo2 backups/foo3
+mkdir backups
+cp -r foo foo2
+cp foo foo2
+cp example1 barney
+touch example1
+../
+cd linuxtutorialwork/foo/bar
+mkdir -pv linuxtutorialwork/foo/bar
+rmdir linuxtutorialwork/
+mkdir linuxtutorialwork
+cd ls
+cd /linuxtutorialwork
+/cd linuxtutorialwork/
+ls linuxtutorialwork/
+cd /Users/cameronforras/
+ls linuxtutorialwork/foo
+rmdir linuxtutorialwork/foo/bar
+mkdir -p linuxtutorialwork/foo/bar
+man -k ls
+man -k quit
+cd ../../
+home
+cd 'Downloads'
+cd 'Worship'
+/Users/cameronforras/
+/ls
+cd /usr/bin
+../../
+cd /var/log
+/var/log
+/etc -Stores
+/etc
+cd /home/cameronforras
+/home
+cd ~/Documents
+cd Documents
+ls ../../
+ls /Users/cameronforras/Documents
+ls ./Documents
+ls ~/Documents
+ls /home/oh?/Documents
+ls /home/cameron/Documents
+ls /home/cameronforras/Documents
+ls Documents
+ls -l /etc
+ls /etc
+echo $SHELL
+ipconfig
+hdiutil convert -format UDRW -o /Users/cameronforras/Downloads/issdfut_2.0.13.img /Users/cameronforras/Downloads/issdfut_2.0.13.iso 
+hdiutil
+hdiutil convert -format UDRW -o destination_file.img source_file.iso
+hdiutil convert -format UDRW -o
+/Volumes/FORRAS/v1Architecture ; exit;
+java -d64 -Xms4096M -Xmx5130M -jar Minecraft.app/Contents/Resources/Java/Bootstrap.jar
+cd /Applications/
+cd/Applications/
+cd//Applications
+ping 25.37.181.119
+/Users/cameronforras/Desktop/MineCraft/Mineserver\ 1.7.2/start.command ; exit;
+chmod a+x /Users/cameronforras/Desktop/MineCraft/Mineserver\ 1.7.2/start.command 
+ping 25.166.196.115
+/Users/cameronforras/Desktop/MineCraft/1.6.2\ server\ Steven/start.command ; exit;
+ping 25.134.183.211
+chmod a+x /Users/cameronforras/Desktop/MineCraft/1.6.2\ server\ Steven/start.command 
+sudo ln -sf /System/Library/Frameworks/JavaVM.framework/Commands/javaws /usr/bin/javaws
+sudo ln -sf /System/Library/Java/Support/Deploy.bundle/Contents/Resources/JavaPlugin2_NPAPI.plugin /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+sudo mv /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin /Library/Internet\ Plug-Ins/disabled
+sudo mkdir -p /Library/Internet\ Plug-Ins/disabled
+java -jar FTB_Launcher.jar
+cd ~/Desktop/ftb/
+/Users/cameronforras/Desktop/MineCraft/NEWEST/start.command ; exit;
+chmod a+x /Users/cameronforras/Desktop/MineCraft/NEWEST/start.command 
+/Users/cameronforras/Desktop/MineCraft/1.4.5/start.command ; exit;
+chmod a+x /Users/cameronforras/Desktop/MineCraft/1.4.5/start.command 
+chmoda+x
+chmod
+/Users/cameronforras/Desktop/MineCraft/1.4.5/start.command 
+chmod a+x 
+/Users/cameronforras/Desktop/MineCraft/1.4.2/start.command ; exit;
+chmod a+x /Users/cameronforras/Desktop/MineCraft/1.4.2/start.command 
+a
+chmod a+x
+/Users/cameronforras/Desktop/MineCraft/Minecraft\ previous\ folders/MineCraft\ Server\ 1.2.5/start.command ; exit;
+/Users/cameronforras/Desktop/MineCraft/1.4.2/start.command 
+sudo rm -i com.line6*
+cd /private/var/db/receipts
+cd //
+/Users/cameronforras/Desktop/MineCraft/1.2.5\ IC2/MineCraft\ Server\ 1.2.5/start.command ; exit;
+/Users/cameronforras/Desktop/MineCraft/Minecraft\ Mods/MineCraft\ Server\ 1.2.5/start.command ; exit;
+/Users/cameronforras/Desktop/MineCraft/MineCraft\ Server\ 1.2.5/start.command ; exit;
+thanks
+sudo /Developer/Library/uninstall-devtools –mode=all
+/Users/cameronforras/Desktop/MineCraft/Minecraft\ Mods/MineCraft\ Server\ 1.2/start.command ; exit;
+ping 5.134.183.211
+ip config
+defaultgateway
+/Users/cameronforras/Desktop/Minecraft\ Mods/MineCraft\ Server\ 1.2/start.command ; exit;
+jar xf ~/Library/Application\ Support/minecraft/bin/minecraft.jar
+cd mctmp
+mkdir mctmp
+rm -rf mctmp
+jar uf ~/Library/Application\ Support/minecraft/bin/minecraft.jar ./
+rm META-INF/MOJANG_C.*
+/Users/cameronforras/Desktop/Minecraft\ Mods/Mods/dragonmount_v0.71_mc1.2.3_ml 
+/Users/cameronforras/Desktop/Minecraft\ Mods/Mods/Arrows\ Mod 
+/Users/cameronforras/Desktop/Minecraft\ Mods/Mods/Arrows\ Mod.zip 
+/Users/cameronforras/Desktop/MineCraft\ Server\ 1.2/start.command ; exit;
+/Users/cameronforras/Desktop/MineCraft\ Server/start.command ; exit;
+/Users/cameronforras/Dropbox/Christian\ Counseling\ PP./Reading\ Presentations/Depression ; exit;
+java -Xms512m -Xmx1024m -cp "%APPDATA%\.minecraft\bin\*" -Djava.library.path="%APPDATA%\.minecraft\bin\natives" net.minecraft.client.Minecraft "Manonfire3"
+java -Xms512m -Xmx1024m -cp "%APPDATA%\.minecraft\bin\*" -Djava.library.path="%APPDATA%\.minecraft\bin\natives" net.minecraft.client.Minecraft "YOURnameHERE"
+ls -l moving_around.txt 
+ls -t
+ls t
+ls
+history > moving_around.txt
+pwd
+man less
+history | less 
+history
+$ history
+/cd .
+/cd ..
+/cd ...
+cd Desktop
+.
+ls /
+cd
+man tree
+cd ../Downloads
+cd pictures
+cd net
+cd src
+cd ~
+ls -l
+..
+cd ../..
+cd ..
+cd src/
+ls l
+ls -R
+ls 0R
+ls -G
+ls -i
+man ls
+man
+fish
+manual
+ls -at
+ls -al
+ls -a
+ls -rlt
+ls -r
+ls -lt
+cd /
+cd /c
+lsd
+cd ../
+cd ~/D
+cd Downloads
+cd ~/Downloads/
+cd cameronforras/
+cd home
+~$
+prompt
+echo $PATH
+ech $PATH
+curl -fsSL http://git.io/QxUaOQ | sh
+git config --global user.name
+git config --global user.email
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'cameronforras@hotmail.com'
+git config --global user.name 'Cameron Forras'
+brew install git
+git checkout master
+git checkout -b blah
+git branch
+git --version
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew install fish
+function fish_title; end; funcsave fish_title
+help
+$
+killall fishd
+brew info fish
+fish_update_completions 
+chsh -s /usr/local/bin/fish
+curl -fsSL http://git.io/beJs | ruby
+brew doctor
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew prune
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+$gitinit
+$ git
+git add /Users/cameronforras/projects/codefellows/io-example/donutFinal.html 
+/Users/cameronforras/projects/codefellows/io-example/donutFinal.html 
+git push -u origin master
+git remote add origin https://github.com/cameron4us/TopPotDonutsProject3.git
+git commit -m "first commit"
+git add README.md
+git init
+echo "# TopPotDonutsProject3" >> README.md
+git
+cd ...
+cd Library/
+cd/ User/cameronforras
+cd usr/
+../ cd
+cd../
+../cd
+git clone https://github.com/h5bp/html5-boilerplate.git
+subl greeting.html
+greeting.html
+subl test.html
+sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/
+man subl
+subl help
+subl
+cd io-example/
+cd codefellows/
+cd projects/
+git fetch
+git config --global credential.helper osxkeychain
+git credential-osxkeychain get
+get
+git credential-osxkeychain
+git config --global user.email cameronforras@hotmail.com
+git config --global user.name Cameron
+$ git config --global user.name Cameron
+file /Users/cameronforras/*
+ls [^a-k]*
+ls [l]*
+ls [ld]*
+ls [sv]*
+ls *.???
+ls *.jpg
+ls *.odt
+cd /Users/cameronforras
+cd /Users
+cd Users
+cd Users/cameronforras
+ls f*
+ls b*
+rm -i fred
+rm -r backups
+rm backups
+rmdir backups
+rm example1
+cd linuxtutorialwork/
+mv linuxtutorialwork/testdir /Users/cameronforras/linuxtutorialwork/fred
+mkdir linuxtutorialwork/testdir
+mv foo foo3
+mv barney backups/
+mv foo2 backups/foo3
+mkdir backups
+cp -r foo foo2
+cp foo foo2
+cp example1 barney
+touch example1
+../
+cd linuxtutorialwork/foo/bar
+mkdir -pv linuxtutorialwork/foo/bar
+rmdir linuxtutorialwork/
+mkdir linuxtutorialwork
+cd ls
+cd /linuxtutorialwork
+/cd linuxtutorialwork/
+ls linuxtutorialwork/
+cd /Users/cameronforras/
+ls linuxtutorialwork/foo
+rmdir linuxtutorialwork/foo/bar
+mkdir -p linuxtutorialwork/foo/bar
+man -k ls
+man -k quit
+cd ../../
+home
+cd 'Downloads'
+cd 'Worship'
+/Users/cameronforras/
+/ls
+cd /usr/bin
+../../
+cd /var/log
+/var/log
+/etc -Stores
+/etc
+cd /home/cameronforras
+/home
+cd ~/Documents
+cd Documents
+ls ../../
+ls /Users/cameronforras/Documents
+ls ./Documents
+ls ~/Documents
+ls /home/oh?/Documents
+ls /home/cameron/Documents
+ls /home/cameronforras/Documents
+ls Documents
+ls -l /etc
+ls /etc
+echo $SHELL
+ipconfig
+hdiutil convert -format UDRW -o /Users/cameronforras/Downloads/issdfut_2.0.13.img /Users/cameronforras/Downloads/issdfut_2.0.13.iso 
+hdiutil
+hdiutil convert -format UDRW -o destination_file.img source_file.iso
+hdiutil convert -format UDRW -o
+/Volumes/FORRAS/v1Architecture ; exit;
+java -d64 -Xms4096M -Xmx5130M -jar Minecraft.app/Contents/Resources/Java/Bootstrap.jar
+cd /Applications/
+cd/Applications/
+cd//Applications
+ping 25.37.181.119
+/Users/cameronforras/Desktop/MineCraft/Mineserver\ 1.7.2/start.command ; exit;
+chmod a+x /Users/cameronforras/Desktop/MineCraft/Mineserver\ 1.7.2/start.command 
+ping 25.166.196.115
+/Users/cameronforras/Desktop/MineCraft/1.6.2\ server\ Steven/start.command ; exit;
+ping 25.134.183.211
+chmod a+x /Users/cameronforras/Desktop/MineCraft/1.6.2\ server\ Steven/start.command 
+sudo ln -sf /System/Library/Frameworks/JavaVM.framework/Commands/javaws /usr/bin/javaws
+sudo ln -sf /System/Library/Java/Support/Deploy.bundle/Contents/Resources/JavaPlugin2_NPAPI.plugin /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+sudo mv /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin /Library/Internet\ Plug-Ins/disabled
+sudo mkdir -p /Library/Internet\ Plug-Ins/disabled
+java -jar FTB_Launcher.jar
+cd ~/Desktop/ftb/
+/Users/cameronforras/Desktop/MineCraft/NEWEST/start.command ; exit;
+chmod a+x /Users/cameronforras/Desktop/MineCraft/NEWEST/start.command 
+/Users/cameronforras/Desktop/MineCraft/1.4.5/start.command ; exit;
+chmod a+x /Users/cameronforras/Desktop/MineCraft/1.4.5/start.command 
+chmoda+x
+chmod
+/Users/cameronforras/Desktop/MineCraft/1.4.5/start.command 
+chmod a+x 
+/Users/cameronforras/Desktop/MineCraft/1.4.2/start.command ; exit;
+chmod a+x /Users/cameronforras/Desktop/MineCraft/1.4.2/start.command 
+a
+chmod a+x
+/Users/cameronforras/Desktop/MineCraft/Minecraft\ previous\ folders/MineCraft\ Server\ 1.2.5/start.command ; exit;
+/Users/cameronforras/Desktop/MineCraft/1.4.2/start.command 
+sudo rm -i com.line6*
+cd /private/var/db/receipts
+cd //
+/Users/cameronforras/Desktop/MineCraft/1.2.5\ IC2/MineCraft\ Server\ 1.2.5/start.command ; exit;
+/Users/cameronforras/Desktop/MineCraft/Minecraft\ Mods/MineCraft\ Server\ 1.2.5/start.command ; exit;
+/Users/cameronforras/Desktop/MineCraft/MineCraft\ Server\ 1.2.5/start.command ; exit;
+thanks
+sudo /Developer/Library/uninstall-devtools –mode=all
+/Users/cameronforras/Desktop/MineCraft/Minecraft\ Mods/MineCraft\ Server\ 1.2/start.command ; exit;
+ping 5.134.183.211
+ip config
+defaultgateway
+/Users/cameronforras/Desktop/Minecraft\ Mods/MineCraft\ Server\ 1.2/start.command ; exit;
+jar xf ~/Library/Application\ Support/minecraft/bin/minecraft.jar
+cd mctmp
+mkdir mctmp
+rm -rf mctmp
+jar uf ~/Library/Application\ Support/minecraft/bin/minecraft.jar ./
+rm META-INF/MOJANG_C.*
+/Users/cameronforras/Desktop/Minecraft\ Mods/Mods/dragonmount_v0.71_mc1.2.3_ml 
+/Users/cameronforras/Desktop/Minecraft\ Mods/Mods/Arrows\ Mod 
+/Users/cameronforras/Desktop/Minecraft\ Mods/Mods/Arrows\ Mod.zip 
+/Users/cameronforras/Desktop/MineCraft\ Server\ 1.2/start.command ; exit;
+/Users/cameronforras/Desktop/MineCraft\ Server/start.command ; exit;
+/Users/cameronforras/Dropbox/Christian\ Counseling\ PP./Reading\ Presentations/Depression ; exit;
+java -Xms512m -Xmx1024m -cp "%APPDATA%\.minecraft\bin\*" -Djava.library.path="%APPDATA%\.minecraft\bin\natives" net.minecraft.client.Minecraft "Manonfire3"
+java -Xms512m -Xmx1024m -cp "%APPDATA%\.minecraft\bin\*" -Djava.library.path="%APPDATA%\.minecraft\bin\natives" net.minecraft.client.Minecraft "YOURnameHERE"
