@@ -1,0 +1,14 @@
+# git status - will check let you know what branch you're on and
+# if there are files that have been modified that may need to be added
+
+#git init - lets you initialize a Git repository to begin Git work
+
+# git add - will set the stage for files to be saved with notes on what's been modified
+
+# git commit - will save all that has been done and create a clean git file
+
+# git log - shows all the items that have been modified along with their notes
+
+# git branch - lets you list and create items related to the master branch
+
+# git checkout - switch branches currently focused on
